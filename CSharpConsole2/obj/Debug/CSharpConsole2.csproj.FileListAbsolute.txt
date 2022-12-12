@@ -1,0 +1,6 @@
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\bin\Debug\CSharpConsole2.exe.config
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\bin\Debug\CSharpConsole2.exe
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\bin\Debug\CSharpConsole2.pdb
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\obj\Debug\CSharpConsole2.csprojResolveAssemblyReference.cache
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\obj\Debug\CSharpConsole2.exe
+E:\Programming-Web-DB\C#\CSharpDemo\CSharpConsole2\obj\Debug\CSharpConsole2.pdb

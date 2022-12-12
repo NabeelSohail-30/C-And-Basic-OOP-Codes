@@ -1,0 +1,6 @@
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\bin\Debug\TEST.exe.config
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\bin\Debug\TEST.exe
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\bin\Debug\TEST.pdb
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\obj\Debug\TEST.exe
+E:\Programming-Web-DB\C#\CSharpDemo\TEST\obj\Debug\TEST.pdb
